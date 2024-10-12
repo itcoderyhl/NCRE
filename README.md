@@ -16,7 +16,7 @@
 - SpringMvc
 - Mybatis
 - MySQL
-- layui
+- bootstrap
 - Jquery
 - Ajax
 - echarts
